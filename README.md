@@ -1,2 +1,10 @@
 # mycool-compiler
-my implement of COOL (Classroom Object Oriented Language) compiler
+
+我对 COOL 语言编译器的实现。
+
+目前完成：
+* 词法分析
+* 语法分析
+* 语义分析
+
+我从中学到了许多。
